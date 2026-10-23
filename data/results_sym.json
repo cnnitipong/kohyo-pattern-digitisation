@@ -1,0 +1,518 @@
+{
+ "P1": {
+  "heddles": 4,
+  "lattice": "centred",
+  "cells": [
+   22,
+   12
+  ],
+  "phase_px": [
+   3,
+   0
+  ],
+  "ops": {
+   "mirror_x": {
+    "agreement": 0.9848,
+    "accepted": true,
+    "shift": [
+     0,
+     19
+    ]
+   },
+   "mirror_y": {
+    "agreement": 0.9848,
+    "accepted": true,
+    "shift": [
+     5,
+     11
+    ]
+   },
+   "rot180": {
+    "agreement": 0.9848,
+    "accepted": true,
+    "shift": [
+     5,
+     8
+    ]
+   },
+   "half_shift": {
+    "agreement": 1.0,
+    "accepted": true,
+    "shift": [
+     6,
+     11
+    ]
+   }
+  },
+  "accepted_ops": [
+   "mirror_x",
+   "mirror_y",
+   "rot180",
+   "half_shift"
+  ],
+  "cells_changed_frac": 0.0076,
+  "shafts_before": 7,
+  "treadles_before": 5,
+  "shafts_after": 5,
+  "treadles_after": 3,
+  "proj_before": {
+   "2": 0.1742,
+   "3": 0.0985,
+   "4": 0.0379,
+   "5": 0.0152,
+   "6": 0.0038,
+   "7": 0.0,
+   "8": 0.0,
+   "9": 0.0,
+   "10": 0.0,
+   "11": 0.0,
+   "12": 0.0,
+   "13": 0.0,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "proj_after": {
+   "2": 0.1818,
+   "3": 0.0606,
+   "4": 0.0303,
+   "5": 0.0,
+   "6": 0.0,
+   "7": 0.0,
+   "8": 0.0,
+   "9": 0.0,
+   "10": 0.0,
+   "11": 0.0,
+   "12": 0.0,
+   "13": 0.0,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "cost_at_heddles_before": 0.0379,
+  "cost_at_heddles_after": 0.0303,
+  "symmetry_after": {
+   "mirror_x": 1.0,
+   "mirror_y": 1.0,
+   "rot180": 1.0,
+   "half_shift": 1.0
+  },
+  "fidelity_motif_before": 0.4094,
+  "fidelity_motif_after": 0.3971,
+  "floats_before": [
+   3,
+   7
+  ],
+  "floats_after": [
+   3,
+   7
+  ],
+  "pattern_fraction_before": 0.2955,
+  "pattern_fraction_after": 0.303
+ },
+ "P2": {
+  "heddles": 8,
+  "lattice": "centred",
+  "cells": [
+   13,
+   29
+  ],
+  "phase_px": [
+   2,
+   0
+  ],
+  "ops": {
+   "mirror_x": {
+    "agreement": 0.8621,
+    "accepted": true,
+    "shift": [
+     0,
+     9
+    ]
+   },
+   "mirror_y": {
+    "agreement": 0.8355,
+    "accepted": true,
+    "shift": [
+     7,
+     0
+    ]
+   },
+   "rot180": {
+    "agreement": 0.8037,
+    "accepted": true,
+    "shift": [
+     7,
+     9
+    ]
+   }
+  },
+  "accepted_ops": [
+   "mirror_x",
+   "mirror_y",
+   "rot180"
+  ],
+  "cells_changed_frac": 0.0981,
+  "shafts_before": 13,
+  "treadles_before": 21,
+  "shafts_after": 5,
+  "treadles_after": 6,
+  "proj_before": {
+   "2": 0.1698,
+   "3": 0.122,
+   "4": 0.0875,
+   "5": 0.0663,
+   "6": 0.0557,
+   "7": 0.0451,
+   "8": 0.0292,
+   "9": 0.0212,
+   "10": 0.0106,
+   "11": 0.0053,
+   "12": 0.0027,
+   "13": 0.0,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "proj_after": {
+   "2": 0.183,
+   "3": 0.1088,
+   "4": 0.0557,
+   "5": 0.0,
+   "6": 0.0,
+   "7": 0.0,
+   "8": 0.0,
+   "9": 0.0,
+   "10": 0.0,
+   "11": 0.0,
+   "12": 0.0,
+   "13": 0.0,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "cost_at_heddles_before": 0.0292,
+  "cost_at_heddles_after": 0.0,
+  "symmetry_after": {
+   "mirror_x": 1.0,
+   "mirror_y": 1.0,
+   "rot180": 1.0
+  },
+  "fidelity_motif_before": 0.8133,
+  "fidelity_motif_after": 0.8022,
+  "floats_before": [
+   12,
+   16
+  ],
+  "floats_after": [
+   13,
+   16
+  ],
+  "pattern_fraction_before": 0.6366,
+  "pattern_fraction_after": 0.6446
+ },
+ "P3": {
+  "heddles": 8,
+  "lattice": "centred",
+  "cells": [
+   35,
+   36
+  ],
+  "phase_px": [
+   2,
+   2
+  ],
+  "ops": {
+   "mirror_x": {
+    "agreement": 0.954,
+    "accepted": true,
+    "shift": [
+     0,
+     24
+    ]
+   },
+   "mirror_y": {
+    "agreement": 0.9317,
+    "accepted": true,
+    "shift": [
+     21,
+     0
+    ]
+   },
+   "rot180": {
+    "agreement": 0.9302,
+    "accepted": true,
+    "shift": [
+     21,
+     24
+    ]
+   }
+  },
+  "accepted_ops": [
+   "mirror_x",
+   "mirror_y",
+   "rot180"
+  ],
+  "cells_changed_frac": 0.0381,
+  "shafts_before": 21,
+  "treadles_before": 20,
+  "shafts_after": 10,
+  "treadles_after": 8,
+  "proj_before": {
+   "2": 0.2008,
+   "3": 0.1262,
+   "4": 0.0524,
+   "5": 0.0325,
+   "6": 0.0286,
+   "7": 0.0278,
+   "8": 0.0238,
+   "9": 0.0183,
+   "10": 0.0143,
+   "11": 0.0159,
+   "12": 0.0135,
+   "13": 0.0087,
+   "14": 0.0079,
+   "15": 0.0071,
+   "16": 0.0056
+  },
+  "proj_after": {
+   "2": 0.2183,
+   "3": 0.1159,
+   "4": 0.0587,
+   "5": 0.0413,
+   "6": 0.027,
+   "7": 0.0175,
+   "8": 0.0111,
+   "9": 0.0032,
+   "10": 0.0,
+   "11": 0.0,
+   "12": 0.0,
+   "13": 0.0,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "cost_at_heddles_before": 0.0238,
+  "cost_at_heddles_after": 0.0111,
+  "symmetry_after": {
+   "mirror_x": 1.0,
+   "mirror_y": 1.0,
+   "rot180": 1.0
+  },
+  "fidelity_motif_before": 0.6491,
+  "fidelity_motif_after": 0.6381,
+  "floats_before": [
+   10,
+   11
+  ],
+  "floats_after": [
+   10,
+   11
+  ],
+  "pattern_fraction_before": 0.3056,
+  "pattern_fraction_after": 0.3246
+ },
+ "P4": {
+  "heddles": 4,
+  "lattice": "rectangular",
+  "cells": [
+   34,
+   14
+  ],
+  "phase_px": [
+   0,
+   4
+  ],
+  "ops": {
+   "mirror_x": {
+    "agreement": 0.958,
+    "accepted": true,
+    "shift": [
+     0,
+     14
+    ]
+   },
+   "mirror_y": {
+    "agreement": 0.9748,
+    "accepted": true,
+    "shift": [
+     10,
+     0
+    ]
+   },
+   "rot180": {
+    "agreement": 0.958,
+    "accepted": true,
+    "shift": [
+     10,
+     14
+    ]
+   }
+  },
+  "accepted_ops": [
+   "mirror_x",
+   "mirror_y",
+   "rot180"
+  ],
+  "cells_changed_frac": 0.0252,
+  "shafts_before": 8,
+  "treadles_before": 6,
+  "shafts_after": 5,
+  "treadles_after": 3,
+  "proj_before": {
+   "2": 0.1176,
+   "3": 0.0546,
+   "4": 0.0378,
+   "5": 0.0084,
+   "6": 0.0168,
+   "7": 0.0021,
+   "8": 0.0,
+   "9": 0.0,
+   "10": 0.0,
+   "11": 0.0,
+   "12": 0.0,
+   "13": 0.0,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "proj_after": {
+   "2": 0.1176,
+   "3": 0.0672,
+   "4": 0.0336,
+   "5": 0.0,
+   "6": 0.0,
+   "7": 0.0,
+   "8": 0.0,
+   "9": 0.0,
+   "10": 0.0,
+   "11": 0.0,
+   "12": 0.0,
+   "13": 0.0,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "cost_at_heddles_before": 0.0378,
+  "cost_at_heddles_after": 0.0336,
+  "symmetry_after": {
+   "mirror_x": 1.0,
+   "mirror_y": 1.0,
+   "rot180": 1.0
+  },
+  "fidelity_motif_before": 0.5448,
+  "fidelity_motif_after": 0.5431,
+  "floats_before": [
+   10,
+   10
+  ],
+  "floats_after": [
+   10,
+   10
+  ],
+  "pattern_fraction_before": 0.3992,
+  "pattern_fraction_after": 0.3866
+ },
+ "P5": {
+  "heddles": 4,
+  "lattice": "centred",
+  "cells": [
+   36,
+   49
+  ],
+  "phase_px": [
+   2,
+   1
+  ],
+  "ops": {
+   "mirror_x": {
+    "agreement": 0.873,
+    "accepted": true,
+    "shift": [
+     0,
+     28
+    ]
+   },
+   "mirror_y": {
+    "agreement": 0.8526,
+    "accepted": true,
+    "shift": [
+     36,
+     18
+    ]
+   },
+   "rot180": {
+    "agreement": 0.9093,
+    "accepted": true,
+    "shift": [
+     36,
+     10
+    ]
+   }
+  },
+  "accepted_ops": [
+   "mirror_x",
+   "mirror_y",
+   "rot180"
+  ],
+  "cells_changed_frac": 0.0737,
+  "shafts_before": 36,
+  "treadles_before": 43,
+  "shafts_after": 14,
+  "treadles_after": 19,
+  "proj_before": {
+   "2": 0.1961,
+   "3": 0.1576,
+   "4": 0.119,
+   "5": 0.0969,
+   "6": 0.085,
+   "7": 0.0777,
+   "8": 0.0765,
+   "9": 0.0692,
+   "10": 0.0629,
+   "11": 0.0573,
+   "12": 0.0539,
+   "13": 0.0505,
+   "14": 0.0471,
+   "15": 0.0442,
+   "16": 0.0425
+  },
+  "proj_after": {
+   "2": 0.1905,
+   "3": 0.1383,
+   "4": 0.102,
+   "5": 0.0714,
+   "6": 0.0578,
+   "7": 0.0454,
+   "8": 0.0351,
+   "9": 0.0238,
+   "10": 0.0125,
+   "11": 0.0045,
+   "12": 0.0023,
+   "13": 0.0011,
+   "14": 0.0,
+   "15": 0.0,
+   "16": 0.0
+  },
+  "cost_at_heddles_before": 0.119,
+  "cost_at_heddles_after": 0.102,
+  "symmetry_after": {
+   "mirror_x": 1.0,
+   "mirror_y": 1.0,
+   "rot180": 1.0
+  },
+  "fidelity_motif_before": 0.5063,
+  "fidelity_motif_after": 0.4929,
+  "floats_before": [
+   9,
+   8
+  ],
+  "floats_after": [
+   4,
+   8
+  ],
+  "pattern_fraction_before": 0.2494,
+  "pattern_fraction_after": 0.2562
+ },
+ "runtime_s": 5.1
+}

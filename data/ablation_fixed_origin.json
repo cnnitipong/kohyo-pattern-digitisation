@@ -1,0 +1,212 @@
+[
+ {
+  "id": "P1",
+  "pitch": 5,
+  "exact_grid": false,
+  "recovered_cells": [
+   12,
+   36
+  ],
+  "true_cells": [
+   12,
+   22
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P1",
+  "pitch": 6,
+  "exact_grid": false,
+  "recovered_cells": [
+   16,
+   22
+  ],
+  "true_cells": [
+   12,
+   22
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P1",
+  "pitch": 4,
+  "exact_grid": false,
+  "recovered_cells": [
+   16,
+   22
+  ],
+  "true_cells": [
+   12,
+   22
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P2",
+  "pitch": 5,
+  "exact_grid": false,
+  "recovered_cells": [
+   34,
+   17
+  ],
+  "true_cells": [
+   29,
+   13
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P2",
+  "pitch": 5,
+  "exact_grid": true,
+  "recovered_cells": [
+   29,
+   13
+  ],
+  "true_cells": [
+   29,
+   13
+  ],
+  "agreement": 0.9947
+ },
+ {
+  "id": "P2",
+  "pitch": 4,
+  "exact_grid": true,
+  "recovered_cells": [
+   29,
+   13
+  ],
+  "true_cells": [
+   29,
+   13
+  ],
+  "agreement": 1.0
+ },
+ {
+  "id": "P3",
+  "pitch": 4,
+  "exact_grid": false,
+  "recovered_cells": [
+   26,
+   34
+  ],
+  "true_cells": [
+   36,
+   35
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P3",
+  "pitch": 4,
+  "exact_grid": false,
+  "recovered_cells": [
+   48,
+   25
+  ],
+  "true_cells": [
+   36,
+   35
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P3",
+  "pitch": 4,
+  "exact_grid": false,
+  "recovered_cells": [
+   34,
+   43
+  ],
+  "true_cells": [
+   36,
+   35
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P4",
+  "pitch": 4,
+  "exact_grid": false,
+  "recovered_cells": [
+   11,
+   30
+  ],
+  "true_cells": [
+   14,
+   34
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P4",
+  "pitch": 4,
+  "exact_grid": false,
+  "recovered_cells": [
+   14,
+   43
+  ],
+  "true_cells": [
+   14,
+   34
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P4",
+  "pitch": 4,
+  "exact_grid": false,
+  "recovered_cells": [
+   18,
+   29
+  ],
+  "true_cells": [
+   14,
+   34
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P5",
+  "pitch": 3,
+  "exact_grid": false,
+  "recovered_cells": [
+   37,
+   29
+  ],
+  "true_cells": [
+   49,
+   36
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P5",
+  "pitch": 3,
+  "exact_grid": false,
+  "recovered_cells": [
+   49,
+   27
+  ],
+  "true_cells": [
+   49,
+   36
+  ],
+  "agreement": 0.0
+ },
+ {
+  "id": "P5",
+  "pitch": 3,
+  "exact_grid": false,
+  "recovered_cells": [
+   42,
+   27
+  ],
+  "true_cells": [
+   49,
+   36
+  ],
+  "agreement": 0.0
+ }
+]

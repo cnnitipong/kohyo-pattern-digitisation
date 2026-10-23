@@ -1,0 +1,32 @@
+{
+ "P1": {
+  "density": 0.295,
+  "heddles": 4,
+  "random_cost_mean": 0.1712,
+  "random_cost_min": 0.1553
+ },
+ "P2": {
+  "density": 0.637,
+  "heddles": 8,
+  "random_cost_mean": 0.1019,
+  "random_cost_min": 0.0928
+ },
+ "P3": {
+  "density": 0.306,
+  "heddles": 8,
+  "random_cost_mean": 0.2008,
+  "random_cost_min": 0.196
+ },
+ "P4": {
+  "density": 0.399,
+  "heddles": 4,
+  "random_cost_mean": 0.2492,
+  "random_cost_min": 0.2374
+ },
+ "P5": {
+  "density": 0.249,
+  "heddles": 4,
+  "random_cost_mean": 0.2059,
+  "random_cost_min": 0.2012
+ }
+}

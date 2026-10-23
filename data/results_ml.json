@@ -1,0 +1,165 @@
+{
+ "n_synthetic_crops": 30,
+ "lopo_synthetic": {
+  "P1": {
+   "n": 6,
+   "ml_ok": 2,
+   "hybrid_ok": 2,
+   "rule_ok": 5
+  },
+  "P2": {
+   "n": 6,
+   "ml_ok": 1,
+   "hybrid_ok": 6,
+   "rule_ok": 6
+  },
+  "P3": {
+   "n": 6,
+   "ml_ok": 4,
+   "hybrid_ok": 6,
+   "rule_ok": 6
+  },
+  "P4": {
+   "n": 6,
+   "ml_ok": 6,
+   "hybrid_ok": 6,
+   "rule_ok": 6
+  },
+  "P5": {
+   "n": 6,
+   "ml_ok": 6,
+   "hybrid_ok": 6,
+   "rule_ok": 5
+  }
+ },
+ "real_bootstrap": {
+  "P1": {
+   "full": {
+    "ml": [
+     102.12,
+     105.0
+    ],
+    "hybrid": [
+     102.12,
+     105.0
+    ],
+    "rule": [
+     82.0,
+     86.0
+    ],
+    "p": 0.722
+   },
+   "crops_n": 12,
+   "ml_ok": 0,
+   "hybrid_ok": 0,
+   "rule_ok": 12,
+   "p_mean": 0.712
+  },
+  "P2": {
+   "full": {
+    "ml": [
+     52.0,
+     102.18
+    ],
+    "hybrid": [
+     52.0,
+     102.18
+    ],
+    "rule": [
+     52.0,
+     102.18
+    ],
+    "p": 0.98
+   },
+   "crops_n": 12,
+   "ml_ok": 12,
+   "hybrid_ok": 12,
+   "rule_ok": 12,
+   "p_mean": 0.923
+  },
+  "P3": {
+   "full": {
+    "ml": [
+     146.22,
+     148.0
+    ],
+    "hybrid": [
+     146.22,
+     148.0
+    ],
+    "rule": [
+     146.22,
+     148.0
+    ],
+    "p": 0.867
+   },
+   "crops_n": 12,
+   "ml_ok": 9,
+   "hybrid_ok": 10,
+   "rule_ok": 10,
+   "p_mean": 0.644
+  },
+  "P4": {
+   "full": {
+    "ml": [
+     108.0,
+     104.0
+    ],
+    "hybrid": [
+     108.0,
+     104.0
+    ],
+    "rule": [
+     108.0,
+     104.0
+    ],
+    "p": 0.907
+   },
+   "crops_n": 12,
+   "ml_ok": 12,
+   "hybrid_ok": 12,
+   "rule_ok": 12,
+   "p_mean": 0.918
+  },
+  "P5": {
+   "full": {
+    "ml": [
+     112.0,
+     200.09
+    ],
+    "hybrid": [
+     112.0,
+     200.16
+    ],
+    "rule": [
+     112.0,
+     200.16
+    ],
+    "p": 0.071
+   },
+   "crops_n": 12,
+   "ml_ok": 5,
+   "hybrid_ok": 6,
+   "rule_ok": 6,
+   "p_mean": 0.099
+  }
+ },
+ "feature_names": [
+  "s1_min",
+  "s1_mean",
+  "s2_min",
+  "s2_mean",
+  "n_shell2",
+  "area_rel",
+  "len_v1",
+  "len_v2",
+  "peak_v1",
+  "peak_v2",
+  "len_X",
+  "len_Y",
+  "cos_angle",
+  "s1_rel",
+  "s1_rank"
+ ],
+ "runtime_s": 66.0
+}
